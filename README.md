@@ -1,12 +1,11 @@
-# wiki_valorant
+# LEs pates
 
-# SOMMAIRE
+# Presntation des différents type de pates 
 
 ---
 
-- [Historique](https://www.notion.so/WikiPokedia-1fd6c6a29b7d4dab98b3af26a4379f48)
-- [Pokemon Bleu, Rouge et Vert](https://www.notion.so/WikiPokedia-1fd6c6a29b7d4dab98b3af26a4379f48)
-- [Histoire du jeux](https://www.notion.so/WikiPokedia-1fd6c6a29b7d4dab98b3af26a4379f48)
+- [Presentaiton du jeu](https://playvalorant.com/fr-fr/)
+- [Les différents agents](https://www.notion.so/WikiPokedia-1fd6c6a29b7d4dab98b3af26a4379f48)
 
 # Historique
 
