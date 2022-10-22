@@ -18,8 +18,8 @@
 - Fusilli
 > Spirales, 	Le nom vient de l'italien fuso, qui signifie « fuseau ».
 
--Farfalle
->En forme de papillon, ou nœud papillon.
+- Farfalle
+> En forme de papillon, ou nœud papillon.
 
 
 # Pokemon Bleu, Rouge et Vert
