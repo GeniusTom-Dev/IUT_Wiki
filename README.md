@@ -1,4 +1,5 @@
 # Les pates
+[image](https://github.com/GeniusTom-Dev/wiki_valorant/blob/main/assets/fusili.jpg)
 
 # Présentation des différents type de pâtes 
 
