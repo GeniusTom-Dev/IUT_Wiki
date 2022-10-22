@@ -23,7 +23,7 @@
 > En forme de papillon, ou nœud papillon.
 
 
-# La façon dont ont peut les cuisiner
+# La façon dont on peut les cuisiner
 
 ---
 - [Bolognaise](https://fr.wikipedia.org/wiki/Sauce_bolognaise)
