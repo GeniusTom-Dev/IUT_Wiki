@@ -8,9 +8,12 @@
 
 > Tubes moyens avec les bouts coupés diagonalement.
 > Littéralement « plumes », parce qu'elles ressemblent aux bouts des plumes d'oie.
-> 
 
-![Satoshi.jpg](WikiPokedia%201fd6c6a29b7d4dab98b3af26a4379f48/Satoshi.jpg)
+
+- Spaghetti
+
+> Bâtons minces, plus minces que les fedelini.
+> Spago veut dire « cordage » ; spaghetto « petit cordage » et spaghetti est le pluriel
 
 # Pokemon Bleu, Rouge et Vert
 
