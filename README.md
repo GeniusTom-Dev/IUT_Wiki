@@ -1,4 +1,4 @@
-# Les pates
+# Les pâtes
 ![image](https://www.letelegramme.fr/images/2018/10/08/des-torti-des-coquillettes-etc-ces-pates-presenteraient_4204783.jpg)
 
 # Présentation des différents type de pâtes 
