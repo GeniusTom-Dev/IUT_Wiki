@@ -1,10 +1,10 @@
 # LEs pates
 
-# Presntation des différents type de pates 
+# Présentation des différents type de pâtes 
 
 ---
 
-- [Penne rigate](https://www.panzani.fr)
+- #[Penne rigate](https://www.panzani.fr)
 
 > Les Pokemons sont des créatures créées par [Satoshi Tajiri](https://fr.wikipedia.org/wiki/Satoshi_Tajiri) et son équipe, ont créé entièrement le premier jeu Pokemon, le nom de base de Pokemon était "Pocket Monster" dont le diminutif et le nom complet est devenu Pokemon. Lors de sa création [Satoshi Tajiri](https://fr.wikipedia.org/wiki/Satoshi_Tajiri) s'est inspiré de sa passion : les insectes, ce qui créa ce fameux jeu culte.
 > 
