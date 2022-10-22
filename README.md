@@ -15,6 +15,13 @@
 > Bâtons minces, plus minces que les fedelini.
 > Spago veut dire « cordage » ; spaghetto « petit cordage » et spaghetti est le pluriel
 
+- Fusilli
+> Spirales, 	Le nom vient de l'italien fuso, qui signifie « fuseau ».
+
+-Farfalle
+>En forme de papillon, ou nœud papillon.
+
+
 # Pokemon Bleu, Rouge et Vert
 
 ---
