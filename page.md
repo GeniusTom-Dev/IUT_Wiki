@@ -65,7 +65,7 @@
 
 > Le FoodTruck du BurgerShot est faite pour les grosse livraison aux particuliers ou entreprises (entre 15 et 100 menus par camions).
 
->Il est égallement équiper d'un BBQ ce qui permet de sortir du restaurant et aller cuisiner lors des évènement ou sur des place fréquenter.
+>Il est également équiper d'un BBQ ce qui permet de sortir du restaurant et aller cuisiner lors des évènement ou sur des place fréquenter.
 
 ![scoot](https://github.com/GeniusTom-Dev/wiki_valorant/blob/main/image_md/foodtruck.png?raw=true)
 
