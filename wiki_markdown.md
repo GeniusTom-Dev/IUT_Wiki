@@ -1,5 +1,5 @@
 # **Le BurgerShot de LSC (GTA RP)**
-![burgershot](https://github.com/GeniusTom-Dev/wiki_valorant/blob/main/image_md/bs.png?raw=true)
+![burgershot](https://github.com/GeniusTom-Dev/IUT_Wiki/blob/main/assets/markdown/bs.png?raw=true)
 
 > Le BurgerShot est une entreprise de restauration dans la ville de los santos
 > Grâce à ses employé il est le fast food le plus actif de toute la ville
@@ -35,16 +35,16 @@
 
 # Les Recettes du BurgerShot
 
-![bandmnue](https://github.com/GeniusTom-Dev/wiki_valorant/blob/main/image_md/band_menu.png?raw=true)
+![bandmnue](https://github.com/GeniusTom-Dev/IUT_Wiki/blob/main/assets/markdown/band_menu.png?raw=true)
 
 | Image | Nom  | Pain | Viande | Salade | Poulet | Poisson | Boisson | Prix |
 |------| ------|----- |-----|-----|-----|-----|-----| -----|
-|![bbm](https://github.com/GeniusTom-Dev/wiki_valorant/blob/main/image_md/bbm.png?raw=true)|Menu Big Burger|✅|✅|✅|❌|❌| ✅| 50$ |
-|![bm](https://github.com/GeniusTom-Dev/wiki_valorant/blob/main/image_md/bm.png?raw=true)|Menu Burger|✅|✅|✅|❌|❌| ✅| 50$ |
-|![fm](https://github.com/GeniusTom-Dev/wiki_valorant/blob/main/image_md/fm.png?raw=true)|Menu Fish|✅|❌|✅|❌|✅| ✅| 50$ |
-|![cm](https://github.com/GeniusTom-Dev/wiki_valorant/blob/main/image_md/cm.png?raw=true)|Menu Chicken|✅|❌|✅|✅|❌| ✅| 50$ |
-|![sm](https://github.com/GeniusTom-Dev/wiki_valorant/blob/main/image_md/sm.png?raw=true)|Big Burger|✅|❌|✅|❌|❌| ✅| 50$ |
-|![shm](https://github.com/GeniusTom-Dev/wiki_valorant/blob/main/image_md/shm.png?raw=true)|Menu Petite Faim|✅|❌|❌|✅|❌| ✅| 40$ |
+|![bbm](https://github.com/GeniusTom-Dev/IUT_Wiki/blob/main/assets/markdown/bbm.png?raw=true)|Menu Big Burger|✅|✅|✅|❌|❌| ✅| 50$ |
+|![bm](https://github.com/GeniusTom-Dev/IUT_Wiki/blob/main/assets/markdown/bm.png?raw=true)|Menu Burger|✅|✅|✅|❌|❌| ✅| 50$ |
+|![fm](https://github.com/GeniusTom-Dev/IUT_Wiki/blob/main/assets/markdown/fm.png?raw=true)|Menu Fish|✅|❌|✅|❌|✅| ✅| 50$ |
+|![cm](https://github.com/GeniusTom-Dev/IUT_Wiki/blob/main/assets/markdown/cm.png?raw=true)|Menu Chicken|✅|❌|✅|✅|❌| ✅| 50$ |
+|![sm](https://github.com/GeniusTom-Dev/IUT_Wiki/blob/main/assets/markdown/sm.png?raw=true)|Menu Salade|✅|❌|✅|❌|❌| ✅| 50$ |
+|![shm](https://github.com/GeniusTom-Dev/IUT_Wiki/blob/main/assets/markdown/shm.png?raw=true)|Menu Petite Faim|✅|❌|❌|✅|❌| ✅| 40$ |
 
 
 # Les véhicule du BurgerShot 
@@ -53,13 +53,13 @@
 
 > La voiture du BurgerShot est faite pour les rencontrer entre les responsable/Patron et nos partenaires et elle est égalemment utilisé pour les petites livraison (10-15 menus)
 
-![car](https://github.com/GeniusTom-Dev/wiki_valorant/blob/main/image_md/voiture.png?raw=true)
+![car](https://github.com/GeniusTom-Dev/IUT_Wiki/blob/main/assets/markdown/voiture.png?raw=true)
 
 ## Le Scooter 
 
 > Le Scooter du BurgerShot est faite pour les toute petites livraison aux particuliers (> 5 menus)
 
-![scoot](https://github.com/GeniusTom-Dev/wiki_valorant/blob/main/image_md/scoot.png?raw=true)
+![scoot](https://github.com/GeniusTom-Dev/IUT_Wiki/blob/main/assets/markdown/scoot.png?raw=true)
 
 ## Le FoodTruck 
 
@@ -67,15 +67,15 @@
 
 >Il est également équiper d'un BBQ ce qui permet de sortir du restaurant et aller cuisiner lors des évènement ou sur des place fréquenter.
 
-![scoot](https://github.com/GeniusTom-Dev/wiki_valorant/blob/main/image_md/foodtruck.png?raw=true)
+![foostruck](https://github.com/GeniusTom-Dev/IUT_Wiki/blob/main/assets/markdown/foodtruck.png?raw=true)
 
 # Le BurgerShot possède égallement un wiki fandom
 
-![wiki](https://github.com/GeniusTom-Dev/wiki_valorant/blob/main/image_md/band_site.png?raw=true)
+![wiki](https://github.com/GeniusTom-Dev/IUT_Wiki/blob/main/assets/markdown/band_site.png?raw=true)
 
 ## Cliquer sur l'image pour accèder au site:
 
-[![wiki](https://github.com/GeniusTom-Dev/wiki_valorant/blob/main/image_md/wiki.png?raw=true)](https://ls-confidential.fandom.com/fr/wiki/Burger_Shot)
+[![wiki](https://github.com/GeniusTom-Dev/IUT_Wiki/blob/main/assets/markdown/wiki.png?raw=true)](https://ls-confidential.fandom.com/fr/wiki/Burger_Shot)
 
 
 ###### Auteur : *Even Tom & Possenti Alexandre*. 
